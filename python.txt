@@ -1,0 +1,18 @@
+repl
+?integers are immutable
+list is mutable
+dir() available methods
+strip() null spaces
+split(x) x deggara split chesthadhi
+string escaping \
+string fn's - atoi,atof,find
+[:] slicing
+named parameter-while calling pass the values by giving the name of parameter as there is no order of taking seq
+default parameter-should be at last
+local and global scopes
+to change a global variable global keyword is must
+nameless fnctns-lambda
+apply fnctn is to apply fnct to arg
+map,reduce
+MODULE
+
